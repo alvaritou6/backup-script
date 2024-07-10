@@ -1,4 +1,4 @@
-bb# Back Up Script
+# Back Up Script
 > To run this script you have to installed Python 3.
 
 Instructions for use:
